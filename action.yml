@@ -9,6 +9,7 @@ inputs:
   private-key:
     description: "private SSH key"
     required: false
+    default: ""
   public-key:
     description: "public SSH key"
     required: true
